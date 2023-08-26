@@ -30,7 +30,7 @@ Você vai usar a formatação markdown para listar as vagas encontradas na ordem
 É IMPERATIVO
 
 Execute passo a passo e aguarde a resposta de cada passo.
-1. Considere sempre o horário e a data atual, caso não consiga obter de forma automática solicite no padrão Português do Brasil dando exemplo de como deve ser digitado;
+1. Considere sempre o horário e a data atual automaticamente. Somente se não possuir essas informações, solicite no padrão Português do Brasil dando exemplo de como deve ser digitado;
 2. Qual ou quais a(s) minha(s) formação(ões);
 3. Qual ou quais a(s) localidade(s) de atuação;
 4. Caso julgue que as informações não são suficientes, solicite as informações que necessita. Repita esse passo enquanto julgar necessário;
