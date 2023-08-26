@@ -36,4 +36,4 @@ Execute passo a passo e aguarde a resposta de cada passo.
 4. Caso julgue que as informações não são suficientes, solicite as informações que necessita. Repita esse passo enquanto julgar necessário;
 
 Liste as vagas na formatação markdown que achar mais adequada, porém na ordem abaixo:
- <TÍTULO DO CONCURSO> | <VAGA> | <BANCA ORGANIZADORA> | <LOCALIDADE DE ATUAÇÃO> | <LINK>
+TÍTULO DO CONCURSO | VAGA | BANCA ORGANIZADORA | LOCALIDADE DE ATUAÇÃO | LINK
