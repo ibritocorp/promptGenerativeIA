@@ -3,16 +3,16 @@ O promp cria nomes criativos e envolventes para inúmeras necessidades a partir 
 
 
 ## IAs Testadas
-- [x] ChatGPT
+- [x] **ChatGPT**
 * Versão:
     - [x] GPT-3.5 (FREE)
     - [ ] GPT-4 (PLUS)
 
-- [ ] ClaudeAI
+- [ ] **ClaudeAI**
 * Versão:
     - [ ] Padrão
 
-- [ ] Bing Chat
+- [ ] **Bing Chat**
 * Versão:
     - [ ] Padrão
 
