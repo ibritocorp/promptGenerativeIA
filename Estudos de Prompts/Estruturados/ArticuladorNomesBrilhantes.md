@@ -8,13 +8,13 @@ O promp cria nomes criativos e envolventes para inúmeras necessidades a partir 
     - [x] GPT-3.5 (FREE)
     - [ ] GPT-4 (PLUS)
 
-- [ ] **ClaudeAI**
+- [x] **ClaudeAI**
 * Versão:
-    - [ ] Padrão
+    - [x] Padrão
 
-- [ ] **Bing Chat**
+- [x] **Bing Chat**
 * Versão:
-    - [ ] Padrão
+    - [x] Padrão
 
 
 ## Prompt na Íntegra
