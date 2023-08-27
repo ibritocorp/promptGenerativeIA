@@ -1,4 +1,5 @@
 # Live 18/08/2023
+- Live no canal Sandeco do YouTube em que o mesmo instrui na construção de prompts para auxiliar na busca, na elaboração de plano de estudos, na realização de simulados e redação.
 
 ## Prompts p/ Auxílio em Concurso Público
 
