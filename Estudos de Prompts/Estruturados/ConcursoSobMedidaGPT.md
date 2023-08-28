@@ -3,7 +3,9 @@ O promp busca localizar vagas de concursos públicos em real time a partir de pa
 
 
 ## IAs Testadas
+
 * [ ] **ChatGPT**
+
 * Versão:
     * [ ] GPT-3.5 (FREE)
         * [ ] Satisfatório
@@ -14,18 +16,21 @@ O promp busca localizar vagas de concursos públicos em real time a partir de pa
         * [ ] Insatisfatório
 
 * [ ] **ClaudeAI**
+
 * Versão:
     * [ ] Padrão
         * [ ] Satisfatório
         * [ ] Insatisfatório
 
 * [x] **Bing Chat**
+
 * Versão:
     * [x] Padrão
         * [x] Satisfatório
         * [ ] Insatisfatório
 
 * [x] **Google Bard**
+
 * Versão:
     * [x] Padrão
         * [ ] Satisfatório

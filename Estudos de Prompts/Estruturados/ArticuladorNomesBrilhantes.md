@@ -1,21 +1,40 @@
 # Prompt "ArticuladorNomesBrilhantes"
+
 O promp cria nomes criativos e envolventes para inúmeras necessidades a partir de parâmetros passados durante a interação com o chat.
 
-
 ## IAs Testadas
-- [x] **ChatGPT**
-* Versão:
-    - [x] GPT-3.5 (FREE)
-    - [ ] GPT-4 (PLUS)
 
-- [x] **ClaudeAI**
-* Versão:
-    - [x] Padrão
+* [x] **ChatGPT**
 
-- [x] **Bing Chat**
 * Versão:
-    - [x] Padrão
+  * [x] GPT-3.5 (FREE)
+        * [x] Satisfatório
+        * [ ] Insatisfatório
 
+  * [ ] GPT-4 (PLUS)
+        * [ ] Satisfatório
+        * [ ] Insatisfatório
+
+* [x] **ClaudeAI**
+
+* Versão:
+  * [x] Padrão
+        * [x] Satisfatório
+        * [ ] Insatisfatório
+
+* [x] **Bing Chat**
+
+* Versão:
+  * [x] Padrão
+        * [x] Satisfatório
+        * [ ] Insatisfatório
+
+* [x] **Google Bard**
+
+* Versão:
+    * [x] Padrão
+        * [ ] Satisfatório
+        * [x] Insatisfatório - O prompt interativo não é bem aceito pelo Bard.
 
 ## Prompt na Íntegra
 
