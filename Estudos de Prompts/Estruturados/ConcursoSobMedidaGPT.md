@@ -34,7 +34,7 @@ O promp busca localizar vagas de concursos públicos em real time a partir de pa
 * Versão:
     * [x] Padrão
         * [ ] Satisfatório
-        * [x] Insatisfatório
+        * [x] Insatisfatório - O prompt interativo não é bem aceito pelo Bard.
 
 ## Prompt na Íntegra
 
