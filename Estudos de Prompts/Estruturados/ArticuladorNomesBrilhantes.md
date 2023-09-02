@@ -1,6 +1,6 @@
 # Prompt "ArticuladorNomesBrilhantes"
 
-O promp cria nomes criativos e envolventes para inúmeras necessidades a partir de parâmetros passados durante a interação com o chat.
+O prompt cria nomes criativos e envolventes para inúmeras necessidades a partir de parâmetros passados durante a interação com o chat.
 
 ## IAs Testadas
 
