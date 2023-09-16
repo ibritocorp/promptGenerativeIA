@@ -1,0 +1,5 @@
+<csv>
+</csv>
+Analise os dados dos arquivos CSV fornecidos, onde a primeira coluna representa a "Mensagem". Essas mensagens são provenientes de diálogos entre usuários e atendentes, sendo que apenas as mensagens dos usuários são consideradas. Cada conversa é identificada pelo campo "SequentialId". Se houver linhas com o mesmo "SequentialId", significa que se tratam do mesmo atendimento. Por exemplo, se as três primeiras linhas possuem o "SequentialId" 123456, as três mensagens na coluna "Mensagem" pertencem ao atendimento 123456.
+
+Sua tarefa é listar os tópicos relevantes desses atendimentos em uma tabela. Além disso, inclua subtópicos e SequentialId relacionados. Lembre-se de que um atendimento é identificado pelo "SequentialId", mesmo que contenha várias mensagens. Caso o "SequentialId" seja repetido, apresente os tópicos e subtópicos apenas uma vez, utilizando a mensagem mais relevante para cada um.
