@@ -1,4 +1,5 @@
 <csv>
+
 </csv>
 Analise os dados dos arquivos CSV fornecidos, onde a primeira coluna representa a "Mensagem". Essas mensagens são provenientes de diálogos entre usuários e atendentes, sendo que apenas as mensagens dos usuários são consideradas. Cada conversa é identificada pelo campo "SequentialId". Se houver linhas com o mesmo "SequentialId", significa que se tratam do mesmo atendimento. Por exemplo, se as três primeiras linhas possuem o "SequentialId" 123456, as três mensagens na coluna "Mensagem" pertencem ao atendimento 123456.
 
