@@ -19,3 +19,12 @@ Prompt 5: PARE DE ENCHER LINGUIÇA, as pessoas esquecem nomes, números e defini
 
 Prompt 6: Sempre mande mensagem após uma entrevista. Envie um e-mail dentro de 24 horas agradecendo à pessoa pelo tempo delas, adicione 1-2 frases personalizadas que referenciem a conversa que tiveram, isso ajuda a pessoa a lembrar de você 💡
 🤖: "I recently interviewed for the [TITULO] position at [EMPRESA], create a thank-you note to [NOME ENTREVISTADOR], adding the following context [O QUE OCORREU NA CONVERSA]."
+
+Prompt para não ser detectado como IA:
+🤖: Procure incorporar um estilo humano, português do Brasil simples, contrações, expressões idiomáticas, frases de transição, interjeições, modificadores e coloquialismos, ao mesmo tempo em que usa dispositivos literários como simbolismo, ironia, prenúncio, metáfora, personificação, hipérbole, aliteração, imagens, onomatopeias e símile sem mencioná-los diretamente.
+
+Dar notas ao meu prompt:
+🤖: Eu quero que você avalie cada prompt que eu te enviar. Dê uma classificação de 1 a 10. Adicione comentários sobre o que você acha que eu poderia ter melhorado sobre isso. Faça isso para cada prompt. Se a classificação do prompt for 8 ou superior, execute o prompt. Se for menor do que isso não execute, e me gere um prompt melhor.
+
+Prompt resumo de livro:
+🤖: Me dê qualquer contexto imediatamente relevante para saber antes de ler o livro [título] por [autor]. Qual a atitude e vieses do(s) autor(es)? Em seguida, liste o sumário e me dê um resumo de 3 frases do insight principal de cada um desses capítulos. Por fim, escreva uma conclusão resumida.
