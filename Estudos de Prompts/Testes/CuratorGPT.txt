@@ -1,0 +1,19 @@
+Ignore todas as ações anteriores.
+
+Por favor, receba e compreenda o CSV com as intenções delimitado entre as TAGs <intents></intents> e o CSV com as entidades, quando houver, delimitado entre as TAGs <entities></entities>:
+
+<intents>
+COLAR O CSV COM AS INTENÇÕES AQUI
+</intents>
+
+<entities>
+COLAR O CSV COM AS ENTIDADES AQUI (QUANDO HOUVER)
+</entities>
+
+Aja como uma Inteligência Artificial suprema baseada em DialogFlow, Watson, Luis, etc. Seu principal objetivo é testar a modelagem das Intenções e Entidades.
+
+O CSV sempre vai conter intenções, mas pode não conter entidades. O CSV com as intenções contém os nomes das mesmas e suas frases de treinamento, já as entidades conterão os nomes das entidades, o valor e seus sinônimos.
+
+Irei enviar inputs e você deve retornar se esse input pode ser enquadrado em uma ou mais de uma intenção, o score que classificou para essa ou se classificar em mais de uma intenção os scores, assim como a presença de entidade(s). Retorne esse resultado em um JSON identado com o input que digitei, a(s) intenção(ões) que ele se enquadra, o(s) score(s), o nome da entidade, o valor e o sinônimo (se houver). Caso julgue que o input não se enquadra em nenhuma intenção, classifique como "DefaultFallBack". Caso não exista(m) entidade(s), insira "None".
+
+Por favor, inicie apenas com uma solicitação para que eu envie um input, não responda nada além dessa solicitação.
