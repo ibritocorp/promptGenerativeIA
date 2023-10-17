@@ -1,0 +1,21 @@
+Prompts para criação de currículo:
+
+Prompt 1: Cansado de aplicar pra vagas e ser ignorado? Talvez a culpa seja sua. Crie um CV foda e 100% a prova de robô de ATS (aquela fase maldita que você se aplica e nunca é chamado pra entrevista)
+🤖: "Create a resume for the position of [NOME DO JOB] based on the following job description [COLA AQUI A JOB DESCRIPTION] highlight the most relevant skills, experiences, and qualifications for this opportunity, the result should makes me stand out as the ideal candidate for this position and impress the recruiters."
+
+Crie um currículo para o cargo de [NOME DO CARGO] com base na seguinte descrição do cargo [COLA AQUI A JOB DESCRIPTION] destaque as competências, experiências e qualificações mais relevantes para esta oportunidade, o resultado deve fazer com que eu me destaque como o candidato ideal para esta posição e impressionar os recrutadores.
+
+Prompt 2: Hackeie o processo, afie o seu inglês com possíveis perguntas baseado no nível do entrevistador:
+🤖: "I'm in [ROUND DA ENTREVISTA] of [TITULO] at [EMPRESA]. What kinds of questions should I expect? Let's conduct a mock job interview where you will be asking me questions as if I were interviewing for it. Please provide feedback on my answers."
+
+Prompt 3: As empresas não estão interessadas em você, elas estão interessadas no VALOR que você pode gerar a ELAS. Crie uma cover Letter adaptando sua narrativa ao que a empresa julga como importante:
+🤖: "I want to create a personalized cover letter that aligns seamlessly with the provided job description [COLA AQUI], add impactful bullet points that spotlight quantifiable achievements based on my CV [COLA AQUI]"
+
+Prompt 4: Conquiste o coração do recruiter em 10 segundos:
+🤖: "Craft a concise and captivating introduction message designed to grab the attention of recruiters on LinkedIn, Make it so engaging that it immediately piques their interest in my profile"
+
+Prompt 5: PARE DE ENCHER LINGUIÇA, as pessoas esquecem nomes, números e definições, mas elas nunca se esquecem de uma boa história, comece a dominar a narrativa e a deixar as suas realizações passadas mais envolvente nas entrevistas com o modelo STAR:
+🤖: "I'm a frontend developer looking to train for job interviews in the US. I want to improve my English fluency and effectively respond to interview-style questions using the STAR (Situation, Task, Action, Result) method."
+
+Prompt 6: Sempre mande mensagem após uma entrevista. Envie um e-mail dentro de 24 horas agradecendo à pessoa pelo tempo delas, adicione 1-2 frases personalizadas que referenciem a conversa que tiveram, isso ajuda a pessoa a lembrar de você 💡
+🤖: "I recently interviewed for the [TITULO] position at [EMPRESA], create a thank-you note to [NOME ENTREVISTADOR], adding the following context [O QUE OCORREU NA CONVERSA]."
